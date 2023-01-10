@@ -1,3 +1,18 @@
 body {
-  background-color: indigo;
+  background-color: #D0ECE7;
+}
+article{
+  padding: 8px;
+}
+#articleOne{
+  font-family: 'Calluna';
+  border: 5px double #3333CC;
+}
+#articleTwo{
+  font-family: 'Arial';
+  border: 3px solid #CC0033;
+}
+#articleThree{
+  font-family: 'Courier';
+  border: 1px dashed #FF9933;
 }
